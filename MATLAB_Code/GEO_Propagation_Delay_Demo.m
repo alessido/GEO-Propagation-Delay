@@ -89,7 +89,7 @@ fprintf("Propagation Distance Ground Station 1 to Satellite: %f km\n", distance1
 distanceVector2 = satellite_Rxyz - gs2_Rxyz;
 distance2 = sqrt(sum(distanceVector2.^2));
 fprintf("Propagation Distance Ground Station 2 to Satellite: %f km\n", distance2/1000);
-fprintf("Total Distance: %f.4 km\n", (distance1 + distance2)/1000);
+fprintf("Total Distance: %.4f km\n", (distance1 + distance2)/1000);
 fprintf("Ground Station to Ground Station Propagation Delay: %f ms\n", ...
     1000 * (distance1 + distance2)/c);
 
