@@ -1,19 +1,10 @@
 Seattle,47.6,-122.3
 Corvallis,44.6,-123.27
-Miami,25.76,-80.19
-Washington DC,38.9,-77
 Sydney Australia,-33.9,151.2
-Tokyo Japan,35.7,139.8
-Denver,39.7,-105
-Los Angeles,35,-118.2
-Houston,29.76,-95.4
 Anchorage,61.2,-149.9
-Chicago,41.9,-87.6
-Caracas Venzuela,10.5,-66.9
-Honolulu,21.3,-157.8
-Panama City,8.89,-79.5
-Guatemala City,14.6,-90.5
-Mexico City,19.4,-99.1
-New York City,40.7,-74
-London England,51.5,-0.13
-Madrid Spain,40.4,-3.69
+Seoul South Korea,37.53,126.99
+Los Angeles,34.05,-118.25
+Mexico City,19.43,-99.12
+Panama City,8.98,-79.52
+Houston,29.76,-95.37
+Fiji,-17.82,177.98
