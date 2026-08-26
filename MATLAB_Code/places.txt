@@ -1,10 +1,8 @@
-Seattle,47.6,-122.3
-Corvallis,44.6,-123.27
-Sydney Australia,-33.9,151.2
-Anchorage,61.2,-149.9
-Seoul South Korea,37.53,126.99
+Anchorage Alaska,61.2,-149.9
+Falkland Islands,-51.81,-58.94
+Buenos Aires Argentina,-34.6,-58.38
+São Paulo Brazil,-23.56,-46.64
+Corvallis Oregon,44.57,-123.29
 Los Angeles,34.05,-118.25
 Mexico City,19.43,-99.12
 Panama City,8.98,-79.52
-Houston,29.76,-95.37
-Fiji,-17.82,177.98
